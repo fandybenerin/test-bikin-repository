@@ -9,3 +9,4 @@ RENCANA CONTENT WPU
   ^Laravel
 -Interview
 -Vlog
+-Python
